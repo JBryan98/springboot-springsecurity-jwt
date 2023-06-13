@@ -1,5 +1,5 @@
-<div style="text-align: center">
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642352194340/nOY8Qkcmy.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)" alt="spring+jwt" height="300px" width="75%">
+<div align="center">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642352194340/nOY8Qkcmy.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)" alt="spring+jwt" height="350px" width="75%">
 </div>
 
 # Implementación de JWT en Spring Boot 3.0 y Spring Security 6
